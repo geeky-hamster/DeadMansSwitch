@@ -1,0 +1,10 @@
+{
+  "vaultId": 0,
+  "label": "My Final Words",
+  "originalFile": "/run/media/soham/DATA 2/TCET Files/BT/Prac 10 v2/dms-backend/final_words.txt",
+  "cid": "bafkreibv62e4odjq3qkrgrskvy4n4h5gsc6dxr5rzcvhoj5q7owlbq4lgy",
+  "ipfsUrl": "https://gateway.pinata.cloud/ipfs/bafkreibv62e4odjq3qkrgrskvy4n4h5gsc6dxr5rzcvhoj5q7owlbq4lgy",
+  "contractAddress": "0x92fA6f0CaB84221f775b4FE2836ECEc1ECe8C119",
+  "encryptedAt": "2026-05-02T14:45:06.649Z",
+  "note": "encryptedKey is stored on-chain. Share VAULT_PASSWORD with your beneficiaries."
+}

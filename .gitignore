@@ -1,0 +1,4 @@
+.env
+.claude
+dms-backend/node_modules
+dms-frontend/node_modules
